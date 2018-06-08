@@ -27,7 +27,7 @@ Run it!
 
 Check for a newer version of the template first!
 
-`dotnet new --install "McMaster.DotNet.GlobalTool.Templates::2.1.300-preview1"`
+`dotnet new --install McMaster.DotNet.GlobalTool.Templates`
 
 2. Create a project from the `dotnet new` command
 `dotnet new global-tool --command-name test-tool`
