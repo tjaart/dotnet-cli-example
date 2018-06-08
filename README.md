@@ -36,7 +36,11 @@ Where test-tool is the name of your tool.
 
 # More information
 https://natemcmaster.com/blog/2018/05/12/dotnet-global-tools/
+
 https://github.com/natemcmaster/dotnet-tools
+
 https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools
+
+https://www.nuget.org/packages/McMaster.Extensions.CommandLineUtils/
 
 
