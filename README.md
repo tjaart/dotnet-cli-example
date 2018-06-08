@@ -32,3 +32,11 @@ Check for a newer version of the template first!
 2. Create a project from the `dotnet new` command
 `dotnet new global-tool --command-name test-tool`
 Where test-tool is the name of your tool.
+
+
+# More information
+https://natemcmaster.com/blog/2018/05/12/dotnet-global-tools/
+https://github.com/natemcmaster/dotnet-tools
+https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools
+
+
