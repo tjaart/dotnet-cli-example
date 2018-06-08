@@ -13,7 +13,6 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
-      <e p="test-tool.1.0.0.nupkg" t="Include" />
       <e p="test-tool.csproj" t="IncludeRecursive" />
       <e p="test-tool.sln" t="IncludeFlat" />
     </e>
