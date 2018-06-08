@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>test-tool</id>
+    <version>1.0.0</version>
+    <authors>test-tool</authors>
+    <owners>test-tool</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\publish\test-tool.deps.json" target="tools\netcoreapp2.1\any\test-tool.deps.json" />
+    <file src="C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\publish\test-tool.runtimeconfig.json" target="tools\netcoreapp2.1\any\test-tool.runtimeconfig.json" />
+    <file src="C:\projects\mybucks\scratch\test-tool\obj\DotnetToolSettings.xml" target="tools\netcoreapp2.1\any\DotnetToolSettings.xml" />
+    <file src="C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\publish\test-tool.dll" target="tools\netcoreapp2.1\any\test-tool.dll" />
+    <file src="C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\publish\test-tool.pdb" target="tools\netcoreapp2.1\any\test-tool.pdb" />
+    <file src="C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp2.1\any\McMaster.Extensions.CommandLineUtils.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\test-tool.deps.json
+C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\test-tool.runtimeconfig.json
+C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\test-tool.runtimeconfig.dev.json
+C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\test-tool.dll
+C:\projects\mybucks\scratch\test-tool\bin\Debug\netcoreapp2.1\test-tool.pdb
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.csprojAssemblyReference.cache
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.csproj.CoreCompileInputs.cache
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.AssemblyInfoInputs.cache
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.AssemblyInfo.cs
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.dll
+C:\projects\mybucks\scratch\test-tool\obj\Debug\netcoreapp2.1\test-tool.pdb

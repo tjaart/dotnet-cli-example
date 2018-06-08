@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\projects\mybucks\scratch\test-tool" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="test-tool.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="test-tool.1.0.0.nupkg" t="Include" />
+      <e p="test-tool.csproj" t="IncludeRecursive" />
+      <e p="test-tool.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\tjaartb\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_test-tool.-1129148369.00" t="ExcludeRecursive" />
+  </component>
+</project>
